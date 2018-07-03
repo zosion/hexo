@@ -14,6 +14,7 @@ tags:
 | Ctrl + Shift + ]   |  Toggle heading (uplevel)    |
 | Ctrl + Shift + [   |  Toggle heading (downlevel)  |
 | Alt + C            |  Check/Uncheck task list item|
+<!-- more -->
 
 ### 标题
 
