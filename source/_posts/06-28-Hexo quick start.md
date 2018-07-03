@@ -1,15 +1,21 @@
 ---
 title: Hexo quick start
 date: 2018-06-28 17:11:59
-tags:
+tags: 水笔
 ---
 你可以执行下列命令来创建一篇新文章。
 
 ```bash
 $ hexo new [layout] <title>
+  hexo new post first
 ```
 
 您可以在命令中指定文章的布局（layout），默认为 **post**，可以通过修改 **_config.yml** 中的 **default_layout** 参数来指定默认布局。
 
-## 布局（Layout）
-Hexo 有三种默认布局：post、page 和 draft，它们分别对应不同的路径，而您自定义的其他布局和 post 相同，都将储存到 source/_posts 文件夹。
+### 布局（Layout）
+
+Hexo 有三种默认布局：**post**、**page** 和 **draft**，它们分别对应不同的路径，而您**自定义**的其他布局和 post 相同，都将储存到 **source/_posts** 文件夹。
+
+post	source/_posts
+page	source
+draft	source/_drafts
