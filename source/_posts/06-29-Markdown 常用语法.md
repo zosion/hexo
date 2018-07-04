@@ -5,7 +5,6 @@ tags:
 reward: true
 toc: true
 ---
-{% img /assets/images/scense/3.jpg 2000 %}
 ### 快捷键
 
 | 快捷键              |  功能                         |
