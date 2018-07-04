@@ -16,8 +16,6 @@
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.2.0",
-    "leancloud-realtime": "^4.1.0",
-    "leancloud-storage": "^3.7.3"
+    "hexo-server": "^0.2.0"
   }
 }

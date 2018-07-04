@@ -2,6 +2,8 @@
 title: Markdown 常用语法
 date: 2018-06-29 13:45:37
 tags:
+reward: true
+toc: true
 ---
 {% img /assets/images/scense/3.jpg 2000 %}
 ### 快捷键

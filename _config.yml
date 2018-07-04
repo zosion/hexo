@@ -4,16 +4,16 @@
 
 # Site
 title: '起风了'
-subtitle:
-description:
-keywords:
+subtitle: 疯了的风
+description: BB 
+keywords: CC
 author: Zosion
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zosion.github.io
+url: http://www.zosion.red
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
