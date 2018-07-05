@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.zosion.red
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -80,9 +80,6 @@ theme: yilia
 deploy:
   type: git
   repo: git@github.com:zosion/zosion.github.io.git
-
-plugins: hexo-generator-cname
-
 
 jsonContent:
     meta: false
