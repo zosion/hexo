@@ -88,14 +88,14 @@ jsonContent:
       title: true
       date: true
       path: true
-      text: false
-      raw: false
-      content: false
-      slug: false
-      updated: false
-      comments: false
-      link: false
-      permalink: false
-      excerpt: false
-      categories: false
+      text: true
+      raw: true
+      content: true
+      slug: true
+      updated: true
+      comments: true
+      link: true
+      permalink: true
+      excerpt: true
+      categories: true
       tags: true
