@@ -1,7 +1,7 @@
 ---
 title: Markdown 常用语法
 date: 2018-06-29 13:45:37
-tags: Essays
+tags: Learning
 reward: true
 toc: true
 comments: true
