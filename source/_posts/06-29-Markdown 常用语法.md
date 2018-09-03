@@ -6,7 +6,9 @@ reward: true
 toc: true
 comments: true
 ---
-### 快捷键
+#
+
+## 快捷键
 
 | 快捷键              |  功能                         |
 |:-------------------|:-----------------------------|
@@ -18,7 +20,7 @@ comments: true
 | Alt + C            |  Check/Uncheck task list item|
 <!-- more -->
 
-### 标题
+## 标题
 
     # h1
     ## h2
@@ -27,14 +29,14 @@ comments: true
     ##### h5
     ###### h6
 
-### 分级标题
+## 分级标题
 
     一级标题
     ======================
     二级标题
     ---------------------
 
-### 引用
+## 引用
 
     > hello world!
 
@@ -46,13 +48,13 @@ comments: true
     >> bbbbbbbbb
     >>> cccccccccc  
 
-### 行内标记
+## 行内标记
 
     标记之外`hello world`标记之外
 
-### 代码块
+## 代码块
 
-```
+```html
   <div>
       <div></div>
       <div></div>
@@ -60,7 +62,10 @@ comments: true
   </div>
 ```
 
-### 插入链接
+注：与上行距离一空行
+注：根据不同的语言配置不同的代码着色
+
+## 插入链接
 
     [百度1](http://www.baidu.com/ "百度一下")
 
@@ -68,7 +73,7 @@ comments: true
 
       [2]: http://www.baidu.com/
 
-### 插入图片
+## 插入图片
 
     ![](/assets/images/avatar.jpg 'dome')
 
@@ -76,7 +81,7 @@ comments: true
 
       [01]: /assets/images/avatar.jpg 'dome'
 
-### 插入图片带有链接
+## 插入图片带有链接
 
     [![](/assets/images/avatar.jpg '百度')](http://www.baidu.com)
 
@@ -84,18 +89,18 @@ comments: true
 
       [5]: http://www.baidu.com
 
-### 视频插入
+## 视频插入
 
     <iframe height=498 width=510 src='http://player.youku.com/embed/XMjgzNzM0NTYxNg==' frameborder=0 'allowfullscreen'></iframe>
 
-### 表格
+## 表格
 
     |    a    |       b       |      c     |
     |:-------:|:------------- | ----------:|
     |   居中  |     左对齐    |   右对齐   |
     |=========|===============|============|
 
-### 序表
+## 序表
 
     1. one
     2. two
@@ -105,19 +110,21 @@ comments: true
     * two
       * ww
     * three
+    - four
+    + five
 
-### 任务列表
+## 任务列表
 
     - [ ] last
     - [x] first
 
-### 脚注
+## 脚注
 
     Markdown[^1]
 
       [^1]: Markdown是一种纯文本标记语言
 
-### 分隔符
+## 分隔符
 
     ***
     ---
