@@ -1,12 +1,11 @@
 ---
 title: Markdown 常用语法
 date: 2018-06-29 13:45:37
-tags: Learning
+tags: [Learning, Markdown]
 reward: true
 toc: true
 comments: true
 ---
-#
 
 ## 快捷键
 

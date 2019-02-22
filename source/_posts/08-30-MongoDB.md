@@ -1,11 +1,10 @@
 ---
 title: MongoDB
 date: 2018-08-30 11:24:40
-tags: Learning
+tags: [Learning, MongoDB]
 comments: true
 toc: true
 ---
-#
 
 ## 什么是MongoDB
 
